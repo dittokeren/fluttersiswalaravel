@@ -4,7 +4,7 @@ class Profile {
   int id;
   String name;
   String email;
-  int age;
+  String age;
 
   Profile({this.id = 0, this.name, this.email, this.age});
 
